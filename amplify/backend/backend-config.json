@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "brienca4afa181b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
